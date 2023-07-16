@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/01.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 2,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/02.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 3,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/03.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 4,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/04.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 5,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/05.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 6,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/06.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 7,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/07.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    },
+    {
+      "id": 8,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/08.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR"
+    }
+  ],
+  "users": [
+    {
+      "id": 123,
+      "name": "Ahmed Basalib",
+      "email": "ahmedbasalib.17@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "cartProducts": [
+    {
+      "id": 4,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/04.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR",
+      "userId": 123
+    },
+    {
+      "id": 3,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/03.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR",
+      "userId": 123
+    },
+    {
+      "id": 2,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/02.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR",
+      "userId": 123
+    },
+    {
+      "id": 1,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/01.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR",
+      "userId": 123
+    },
+    {
+      "id": 5,
+      "name": "سماعات apple AirPods Max الاصدار الجديد",
+      "image": "images/products/05.png",
+      "desc": "سماعات apple AirPods Max الاصدار الجديد  سماعات apple AirPods Max الاصدار الجديد",
+      "price": "2,250.00",
+      "currency": "SAR",
+      "userId": 123
+    }
+  ],
+  "sliderImages": [
+    {
+      "id": 1,
+      "name": "slider img 1",
+      "url": "images/main-slider/01.png"
+    },
+    {
+      "id": 2,
+      "name": "slider img 2",
+      "url": "images/main-slider/02.png"
+    },
+    {
+      "id": 3,
+      "name": "slider img 3",
+      "url": "images/main-slider/03.png"
+    }
+  ]
+}
